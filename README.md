@@ -1,3 +1,5 @@
+![Photo I took of the Milky Way](milkyway.png)
+
 # About me
 
 I'm an astrophysics PhD candidate at UC Berkeley. Welcome to my GitHub.
