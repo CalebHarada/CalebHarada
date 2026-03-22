@@ -24,9 +24,9 @@ My ongoing project **SPORES-HWO** (System Properties and Observational Recconnai
 
 ---
 
-![Berkeley astro logo](ucb-astro.png)
-
-
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="/ucb-astro.png" alt="Berkeley astro logo" style="height: 150px;">
+</div>
 
 <!--
 **CalebHarada/CalebHarada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
