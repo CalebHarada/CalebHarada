@@ -6,6 +6,8 @@ I'm an astrophysics PhD candidate at UC Berkeley. Welcome to my GitHub.
 ![Static Badge](https://img.shields.io/badge/Contact-charada%20%5Bat%5D%20berkeley%20%5Bdot%5D%20edu-orange)
 ![profile-hits](https://komarev.com/ghpvc/?username=CalebHarada)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebHarada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 ### 🔗 Webpages
 
@@ -24,9 +26,10 @@ My ongoing project **SPORES-HWO** (System Properties and Observational Recconnai
 
 ---
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img src="/ucb-astro.png" alt="Berkeley astro logo" style="height: 150px;">
-</div>
+![Berkeley astro logo](ucb-astro.png)
+
+
+
 
 <!--
 **CalebHarada/CalebHarada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
