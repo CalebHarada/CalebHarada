@@ -20,7 +20,7 @@ My personal website is currently hosted here: [w.astro.berkeley.edu/~charada/](h
 ---
 ### 🔭 Research
 
-I study **exoplanets** using a variety of tools. 
+I study **exoplanets** using a variety of observational and computational tools. 
 
 My ongoing project **SPORES-HWO** (System Properties and Observational Recconnaisance for Exoplanet Studies with the Habitable Worlds Observatory) is currently hosted [here](https://sites.google.com/berkeley.edu/spores-hwo), but will likewise be relocated to [calebharada.github.io/spores](https://calebharada.github.io/spores) over time.
 
